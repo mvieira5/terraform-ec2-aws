@@ -6,7 +6,7 @@ resource "aws_security_group" "clicksign_sg" {
         Name = "graylog_sg"
         Resource = "graylog"
         Terraform   = "true"
-        Environment = "prd"
+        Environment = "dev"
     }
 
     egress {
