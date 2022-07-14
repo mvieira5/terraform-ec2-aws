@@ -1,1 +1,1 @@
-# terraform-ec2-aws
+# tf-ec2-graylog
